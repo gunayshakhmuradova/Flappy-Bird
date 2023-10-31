@@ -1,0 +1,13 @@
+.random {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+h3 {
+    text-align: center;
+    font-size: 2rem;
+}
+
